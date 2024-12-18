@@ -29,4 +29,4 @@ Este proyecto resuelve varios ejercicios utilizando **Java 8 Lambdas y Streams**
 ## 🛠️ Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/eze-ms/Java-Lambdas-Exercises.git
+   git clone https://github.com/eze-ms/Lambdas-N1-N2
