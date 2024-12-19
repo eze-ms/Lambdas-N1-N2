@@ -11,8 +11,6 @@ public class Month {
                 "July", "August", "September", "October", "November", "December");
 
         // Transformar los meses a mayúsculas usando una lambda
-        months.stream()
-                .map(month -> month.toUpperCase())  // Transformar cada mes a mayúsculas
-                .forEach(System.out::println);  // Imprimir los meses transformados
+        months.forEach(month -> System.out.println(month.toUpperCase()));
     }
 }
